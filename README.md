@@ -11,8 +11,7 @@
 - Make sure to download the right zip file based on your OS.
 - Unzip the file
 - Open your Terminal and change directory to the unzipped folder.
-- run 'dotnet vintri.dll'
-
+- run 'dotnet vintri.dll' or click 'vintri' executable file
 
 
 # Endpoints
