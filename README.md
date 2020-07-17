@@ -17,3 +17,10 @@
 # Endpoints
 - [Get] http://localhost:5000/api/Beer/List?name={} 
 - [Post] http://localhost:5000/api/Beer/Rate?id={}
+
+
+# Other works
+
+- [Youtube Karaoke](https://github.com/ejricahuerta/YoutubeKaraoke)
+- [School Access Portal](https://github.com/ejricahuerta/ica)
+- [Oh! My Glass Website](https://github.com/ejricahuerta/ohmyglass)
